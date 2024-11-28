@@ -1,9 +1,9 @@
 <?php
 
 $host = 'localhost';
-$db = 'UsersPost';
-$user = 'postgres';
-$pass = '1111';
+$db = '';
+$user = '';
+$pass = '';
 
 function connectToDatabase($host, $db, $user, $pass) {
     try {
